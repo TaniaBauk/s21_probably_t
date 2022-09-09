@@ -3,3 +3,4 @@
 3. Health
 4. Travel
 5. Sport
+6. Friends
